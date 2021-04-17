@@ -62,7 +62,7 @@
 - #### 로그인, 회원가입
 ![](https://imgur.com/c8MimT1.png)
 
-- #### 병원 조회
+- #### 병원 목록
 ![](https://imgur.com/WNm6dXb.png)
 ![](https://imgur.com/Am8wDzm.png)
 
