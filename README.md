@@ -14,21 +14,21 @@
   * <a href="#head32">병원 어플리케이션 UI</a>
 
 ***
-# <p id="head1"></p>:pushpin: 프로젝트 소개
-## <p id="head11"></p>:sparkles: 계획 및 목표
+## <p id="head1"></p>:pushpin: 프로젝트 소개
+### <p id="head11"></p>:sparkles: 계획 및 목표
 - *~~자유주제 프로젝트 (객체지향프로그래밍 - 대학 수업 과제)~~*
 - 언택트 시대에 따른 비대면 시스템!!
 - 보다 편한 예약과 한 눈에 볼 수 있는 시스템이 없을까?
 - 호텔스 컴바인, 배달의 민족처럼 한눈에 알아보는 병원 예약 관리 시스템을 만들어보자!
 </br>
 
-## <p id="head12"></p>:point_right: 차별화 포인트
+### <p id="head12"></p>:point_right: 차별화 포인트
 - 예약 접수 시 증상 입력을 통해 병원에 사전 알림
 - 사용자의 편의성을 위해 고객은 어플리케이션, 병원은 데스크탑 형태로 UI 제작
 </br>
 
 
-## <p id="head13"></p>:speech_balloon: ETC
+### <p id="head13"></p>:speech_balloon: ETC
 - 프로젝트 기간 : 2020.10 ~ 2020.12
 - 팀원 소개 : 송인봉([Github](https://github.com/sinb57)), 박준형([Github](https://github.com/oopsys6))
 - 기술 언어 : Java, Java Swing
@@ -36,7 +36,7 @@
 
 ***
 
-# <p id="head2"></p>:building_construction: 시스템 구조 및 기능
+## <p id="head2"></p>:building_construction: 시스템 구조 및 기능
 ![](https://imgur.com/IzlaPs4.png)
 
 ### <p id="head21"></p>:round_pushpin: 서버 어플리케이션 ([Github: Java_HRMS_Server](https://github.com/sinb57/Java_HRMS-Server))
