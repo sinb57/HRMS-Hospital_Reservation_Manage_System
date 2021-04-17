@@ -12,8 +12,9 @@
 * <a href="#head3">VIEW</a>
   * <a href="#head31">환자 어플리케이션 UI</a>
   * <a href="#head32">병원 어플리케이션 UI</a>
-***
+</br>
 
+***
 ## <p id="head1"></p>:pushpin: 프로젝트 소개
 ### <p id="head11"></p>:sparkles: 계획 및 목표
 - *~~자유주제 프로젝트 (객체지향프로그래밍 - 대학 수업 과제)~~*
