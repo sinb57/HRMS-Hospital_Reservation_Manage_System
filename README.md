@@ -1,19 +1,19 @@
 # :hospital: 병원 예약 관리 시스템, 거긴 어때
 
 ## :book: 목차
-* <a href="#head1">프로젝트 소개</a>
-  * <a href="#head11">계획 및 목표</a>
-  * <a href="#head12">차별화 포인트</a>
-  * <a href="#head13">ETC</a>
-
-* <a href="#head2">시스템 구조 및 기능</a>
-  * <a href="#head21">서버 어플리케이션</a> **([Github: Java_HRMS_Server](https://github.com/sinb57/Java_HRMS-Server))**
-  * <a href="#head22">환자 어플리케이션</a> **([Github: Java_HRMS_Patient](https://github.com/sinb57/Java_HRMS-Patient))**
-  * <a href="#head23">병원 어플리케이션</a> **([Github: Java_HRMS_Hospital](https://github.com/sinb57/Java_HRMS-Hospital))**
-
-* <a href="#head3">VIEW</a>
-  * <a href="#head31">환자 어플리케이션 UI</a>
-  * <a href="#head32">병원 어플리케이션 UI</a>
+- <a href="#head1">프로젝트 소개</a>
+  - <a href="#head11">계획 및 목표</a>
+  - <a href="#head12">차별화 포인트</a>
+  - <a href="#head13">ETC</a>
+</br>
+- <a href="#head2">시스템 구조 및 기능</a>
+  - <a href="#head21">서버 어플리케이션</a> **([Github: Java_HRMS_Server](https://github.com/sinb57/Java_HRMS-Server))**
+  - <a href="#head22">환자 어플리케이션</a> **([Github: Java_HRMS_Patient](https://github.com/sinb57/Java_HRMS-Patient))**
+  - <a href="#head23">병원 어플리케이션</a> **([Github: Java_HRMS_Hospital](https://github.com/sinb57/Java_HRMS-Hospital))**
+</br>
+- <a href="#head3">VIEW</a>
+  - <a href="#head31">환자 어플리케이션 UI</a>
+  - <a href="#head32">병원 어플리케이션 UI</a>
 </br>
 
 ***
