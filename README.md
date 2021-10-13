@@ -31,7 +31,7 @@
 
 ### <p id="head13"></p>:speech_balloon: ETC
 - 프로젝트 기간 : 2020.10 ~ 2020.12
-- 팀원 소개 : 송인봉([Github](https://github.com/sinb57)), 박준형([Github](https://github.com/oopsys6))
+- 팀원 소개 : 송인봉([Github](https://github.com/sinb57)), 박준형([Github](https://github.com/oopsys6)), 박OO, 국OO
 - 기술 언어 : Java, Java Swing
 </br>
 
